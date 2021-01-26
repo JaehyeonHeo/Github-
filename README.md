@@ -121,9 +121,41 @@ ____
 ```
 ____
 ### 5. 코드 하이라이트 
-아래와 같이 백틱 3개 뒤에 언어 이름을 넣어주세요.
+백틱 3개 뒤에 언어 이름을 넣으면 코드 하이라이트 가능
 
-` ` `  javascript
+```javascript
+let sumNumbers = (firstNum, lastNum) => {
+  return firstNum + lastNum;
+};
+sumNumbers(100, 200);
+```
+____
+### 6. 링크(Link)
+>인라인 링크와 Url 링크, 참조 링크로 표현할 수 있다.
+```
+[GOOGLE](https://google.com)
+
+ 
+[NAVER](https://naver.com "링크 설명(title)을 작성하세요.")
+
+ 
+[상대적 참조](../users/login)
+```
+[GOOGLE](https://google.com)
+
+ 
+[NAVER](https://naver.com "링크 설명(title)을 작성하세요.")
+
+ 
+[상대적 참조](../users/login)
+____
+### 7. 수평선(Horizontal Line)
+*, -, _ 등을 3개 이상 사용하여 작성할 수 있다.
+띄어쓰기를 중간에 삽입하여도 가능하다.
+다만, 하이픈-은 헤더로 인식할 수도 있으니 주의해서 사용할 필요가 있다.
+
+
+
 
 
 
