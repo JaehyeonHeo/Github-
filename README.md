@@ -183,7 +183,7 @@ ____
   
 * 두번째 방법 : 사이트 활용
 
-  📥[트위터 기호 사이트](https://kr.piliapp.com/twitter-symbols/ "트위터 기호 사이트로 연결")
+  🛡 [트위터 기호 사이트](https://kr.piliapp.com/twitter-symbols/ "트위터 기호 사이트로 연결")
 
   ![트위터 이모지 활용 사이트](https://raw.githubusercontent.com/JaehyeonHeo/Markdown-/0b23951c9bd7d4e9c25e61feabb05423d76551e0/images/%EC%9D%B4%EB%AF%B8%EC%A7%80%20003.jpg "트위터기호")  
 
