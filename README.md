@@ -19,7 +19,7 @@
   2.모든 HTML 마크업을 대신하지 못한다.
 ```
 ## [문법]
-### 헤더Headers
+### 1. 헤더Headers
 ____
 * 주제목 
 >아래와 같이 작성하면 결과값이 그 아래와 같이 표현됨
@@ -55,6 +55,55 @@ ____
 #### This is a H4
 ##### This is a H5
 ###### This is a H6
+____
+### 2.  BlockQuote (인용)
+이메일에서 사용하는 > 블럭인용문자를 이용한다.
+```
+> This is a first blockqute.
+>	> This is a second blockqute.
+>	>	> This is a third blockqute.
+```
+> This is a first blockqute.
+>	> This is a second blockqute.
+>	>	> This is a third blockqute.
+____
+### 3. 목록
+* 순서있는 목록
+순서있는 목록은 숫자와 점을 사용한다.
+```
+1. 첫번째
+2. 두번째
+3. 세번째
+```
+1. 첫번째
+2. 두번째
+3. 세번째
+
+* 순서없는 목록(글머리 기호: *, +, - )
+```
+* 주제목
+  * 부제목
+    * 세부제목
+
++ 주제목
+  + 부제목
+    + 세부제목
+
+- 주제목
+  - 부제목
+    - 세부제목
+```
+* 주제목
+  * 부제목
+    * 세부제목
+
++ 주제목
+  + 부제목
+    + 세부제목
+
+- 주제목
+  - 부제목
+    - 세부제목
 ____
 
 
