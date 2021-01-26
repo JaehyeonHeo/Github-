@@ -143,13 +143,12 @@ ____
  
 [상대적 참조](../users/login)
 ```
-[GOOGLE](https://google.com)
+[GOOGLE](https://google.com "구글로 이동합니다.")
 
  
-[NAVER](https://naver.com "링크 설명(title)을 작성하세요.")
+[NAVER](https://naver.com "네이버로 이동합니다.")
 
  
-[상대적 참조](../users/login)
 ____
 ### 7. 수평선(Horizontal Line)
 *, -, _ 등을 3개 이상 사용하여 작성할 수 있다.
