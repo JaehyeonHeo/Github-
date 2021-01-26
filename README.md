@@ -161,7 +161,7 @@ ____
 ```
 ![이미지 설명](이미지 링크 "이미지에 대한 설명 링크")
 ```
-![바탕화면 캡쳐](https://github.com/JaehyeonHeo/Markdown-/blob/main/%EC%9D%B4%EB%AF%B8%EC%A7%80%20002.jpg?raw=true "이미지에 대한 설명 링크 걸기")
+![바탕화면 캡쳐](https://raw.githubusercontent.com/JaehyeonHeo/Markdown-/0b23951c9bd7d4e9c25e61feabb05423d76551e0/images/%EC%9D%B4%EB%AF%B8%EC%A7%80%20001.jpg "이미지에 대한 설명 링크 걸기")
 ____
 ### 9. 체크박스(Check Box)
 > -, *, + 뒤에 띄어쓰기 후 (대괄호)를 넣어 작성할 수 있다. 대괄호안에 띄어쓰기를 하면 빈 체크박스, X(대문자)를 넣으면 체크된 체크박스가 생긴다.
@@ -181,7 +181,7 @@ ____
   Window : 윈도우 키 + 마침표(.)
   
 * 두번째 방법 : 사이트 활용
-![트위터 이모지 활용 사이트]()  
+![트위터 이모지 활용 사이트](https://raw.githubusercontent.com/JaehyeonHeo/Markdown-/0b23951c9bd7d4e9c25e61feabb05423d76551e0/images/%EC%9D%B4%EB%AF%B8%EC%A7%80%20003.jpg "트위터기호")  
 
 
 
